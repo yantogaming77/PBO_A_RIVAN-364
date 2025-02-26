@@ -9,7 +9,7 @@ public class Main {
         System.out.print("Masukkan Nama: ");
         String nama = scanner.nextLine();
 
-        System.out.print("Masukkan Jenis Kelamin (P/L): ");
+        System.out.print("Masukkan Jenis Kelamin (L/P): ");
         char jenisKelamin = scanner.nextLine().charAt(0);
 
         System.out.print("Masukkan Tahun Lahir: ");
